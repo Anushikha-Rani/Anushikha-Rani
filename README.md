@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone 👋🏻</h1>
 <h2 align="center">I'm Anushikha Rani <br>
-A Passionate Software Engineer <br> || Full Stack Web Developer | Android | Graphic Design | Problem Solving || </h2>
+A Passionate Software Engineer <br> || Full Stack Web Developer | Android | Graphic Designer | Problem Solving || </h2>
 
 ---
 
